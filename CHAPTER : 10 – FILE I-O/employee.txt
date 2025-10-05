@@ -1,0 +1,6 @@
+01.Name and salary of first employee
+Your name is:raj
+and your salary is:54245.65
+02.Name and salary of second employee
+Your name is:ramm
+and your salary is:45222.56
