@@ -57,4 +57,4 @@ GitHub: [@bhupendrasharmaX](https://github.com/bhupendrasharmaX)
 
 ## ⭐ Show Your Support
 
-If you find this helpful, give the repo a ⭐ — it means a lot!
+If you find this helpful, give the repo a ⭐ it means a lot!
